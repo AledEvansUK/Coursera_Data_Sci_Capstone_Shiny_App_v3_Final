@@ -13,7 +13,7 @@ Introduction
 
 - The Shiny application ('app') suggests the next word following text input from the user.
 - The Shiny App works across devices, but is optimised for use on a desktop web browser.
-- The Shiny App can be found on [shinyapps.io](https://aledevans.shinyapps.io/Coursera_Capstone_Shiny_App_NLP_v3_Final)
+- The Shiny App can be found on [shinyapps.io](https://aledevans.shinyapps.io/Coursera_Data_Sci_Capstone_Shiny_App_v3_Final/)
 - The code and documentation for the app, project and this R presentation can be found on [GitHub.](https://github.com/AledEvansUK/Coursera_Data_Sci_Capstone_Shiny_App_v3_Final)
 
 
@@ -36,7 +36,7 @@ Prediction Algorithm
 Weblinks & References
 ========================================================
 
-- The Shiny App on [shinyapps.io](https://aledevans.shinyapps.io/Coursera_Capstone_Shiny_App_NLP_v3_Final)
+- The Shiny App on [shinyapps.io](https://aledevans.shinyapps.io/Coursera_Data_Sci_Capstone_Shiny_App_v3_Final/)
 - Code and documentation for the App, Project and this R presentation on [GitHub.](https://github.com/AledEvansUK/Coursera_Data_Sci_Capstone_Shiny_App_v3_Final)
 - Milestone Report for this project on [Rpubs.](https://rpubs.com/aledevans/Milestone_Report_Capstone_Project_Coursera)
 - The data-set used to contruct the corpus is obtained from [here.](https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip)

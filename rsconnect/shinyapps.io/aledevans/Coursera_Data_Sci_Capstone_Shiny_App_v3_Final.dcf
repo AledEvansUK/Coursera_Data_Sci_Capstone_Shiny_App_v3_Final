@@ -1,0 +1,10 @@
+name: Coursera_Data_Sci_Capstone_Shiny_App_v3_Final
+account: aledevans
+server: shinyapps.io
+appId: 166721
+bundleId: 761419
+url: https://aledevans.shinyapps.io/Coursera_Data_Sci_Capstone_Shiny_App_v3_Final/
+when: 1490356702.73727
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: bad-words.txt|r-pres-coursera-capstone-nlp-aledevans-v3-rpubs.html|r-pres-coursera-capstone-nlp-aledevans-v3.md|r-pres-coursera-capstone-nlp-aledevans-v3.Rpres|Repo_Summary.html|Repo_Summary.Rmd|r-pres-coursera-capstone-nlp-aledevans-v3-figure/unnamed-chunk-2-1.png

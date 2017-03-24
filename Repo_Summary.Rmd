@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### This GitHub repo is for the final submission for the Capstone Project of the [Coursera & Johns Hopkins University (in association with Swiftkey).](https://www.coursera.org/learn/data-science-project)
 
-#### The Shiny App can be found on [shinyapps.io](https://aledevans.shinyapps.io/Coursera_Capstone_Shiny_App_NLP_v3_Final)
+#### The Shiny App can be found on [shinyapps.io](https://aledevans.shinyapps.io/Coursera_Data_Sci_Capstone_Shiny_App_v3_Final/)
 
 #### The Shiny application ('app') suggests the next word following text input from the user.
 
@@ -23,7 +23,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### The milestone report for this project is on [Rpubs.com](https://rpubs.com/aledevans/Milestone_Report_Capstone_Project_Coursera)
 
-#### The R Presentation Pitch for this project is also on [Rpubs.com](http://rpubs.com/aledevans/coursera_r_pres_capstone_v3)
-
+#### The R Presentation Pitch for this project is also on [Rpubs.com](http://rpubs.com/aledevans/coursera_data_sci_capstone_v3_r_pres)
 
 
