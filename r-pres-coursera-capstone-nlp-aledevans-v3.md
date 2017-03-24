@@ -31,7 +31,7 @@ Prediction Algorithm
 
 - Tokenization is used for finding the frequency of five types of n-gram: unigrams (single words), bigrams (two word phrases), trigrams (three words), quadgrams (four word) and quintgrams (five words).
 - N-grams indicate which words appear together in the text. (The higher the frequency of a certain n-gram, the more likely it is to be found in the corpus.)
-- The predictive algorithm uses the n-gram frequency to suggest/ predict the next word based on the users input. The model checks the phrase length and starts with the quintgram, then moves onto quagram and so on. The model is a version of a ['back-off' model](https://en.wikipedia.org/wiki/Katz%27s_back-off_model).
+- The predictive algorithm uses the n-gram frequency to suggest/ predict the next word based on the users input. The model checks the phrase length and starts with the quintgram, then moves onto the quadgram and so on. The model is a version of a ['back-off' model](https://en.wikipedia.org/wiki/Katz%27s_back-off_model).
 
 Weblinks & References
 ========================================================
